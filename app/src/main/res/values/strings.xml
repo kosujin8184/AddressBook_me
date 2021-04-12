@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AddressBookApp</string>
+    <string name="addBTN">추가</string>
+    <string name="nameTXT">NAMETXT</string>
+    <string name="numTXT">NUMTXT</string>
+    <string name="emailTXT">EMAILTXT</string>
+    <string name="delBTN">삭제</string>
+    <string name="resBTN">RESBTN</string>
+</resources>
